@@ -1,0 +1,45 @@
+[Info]
+Type:AdvDupe File
+Creator:"Vlad The Impaler"
+Date:01/30/14
+Description:"testing e2 following"
+Entities:2
+Constraints:1
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:Not Installed
+Time:07:17 PM
+Head:94
+HoldAngle:0,90.2617,0
+HoldPos:-4.53192,21.2464,20.4384
+StartPos:2302.01,641.936,-12800
+[Save]
+Entities:0x76e3ab00{Y:13=N:0;}0x84cbbad0{Y:13=N:0;}0x73a9dac0{S:"Pos"=V:-2.6897,21.5867,20.4072;Y:2=A:-0.00536564,19.1217,179.915;Y:3=A:-0.00536564,-15.0874,179.915;Y:4=V:-2.6897,21.5867,20.4072;Y:5=B:f;Y:6=A:-0.00536564,19.1217,179.915;}0x6775cce8{Y:7=T:0x6fc4a4a8;Y:8=N:0;Y:4=V:-2.6897,21.5867,20.4072;Y:6=A:-0.00536564,19.1217,179.915;S:"Pos"=V:-2.6897,21.5867,20.4072;Y:9=T:0x73a9da98;Y:2=A:-0.00536564,19.1217,179.915;Y:3=A:-0.00536564,-15.0874,179.915;Y:11=Y:10;Y:12=Y:1;Y:14=T:0x76e3ab00;}0x84cbcf48{S:"Pos"=V:-3.83301,22.6876,0.352539;Y:2=A:-0.0083645,156.724,0.00816345;Y:3=A:-0.0083645,122.515,0.00816345;Y:4=V:-3.83301,22.6876,0.352539;Y:5=B:f;Y:6=A:-0.0083645,156.724,0.00816345;}0x76e5c538{Y:7=T:0x619720b8;Y:8=N:0;Y:4=V:-3.83301,22.6876,0.352539;Y:6=A:-0.0083645,156.724,0.00816345;S:"Pos"=V:-3.83301,22.6876,0.352539;Y:9=T:0x84cbcf20;Y:2=A:-0.0083645,156.724,0.00816345;Y:3=A:-0.0083645,122.515,0.00816345;Y:11=Y:10;Y:12=Y:15;Y:14=T:0x84cbbad0;}H0x7c34f428{N:94=T:0x6775cce8;N:96=T:0x76e5c538;}0x6fc4a4a8{V:2426.6,650.803,-12779.6;A:-0.00536564,-15.0874,179.915;Y:1;T:0x73a9da98;T:0x6775cce8;}0x619720b8{V:2426.28,652.356,-12799.6;A:-0.0083645,122.515,0.00816345;Y:15;T:0x84cbcf20;T:0x76e5c538;}0x73a9da98{N:0=T:0x73a9dac0;}0x84cbcf20{N:0=T:0x84cbcf48;}
+Constraints:0x7b189bc8{Y:17=Y:16;Y:20=T:0x71fedab8;Y:21=N:0;}0x76e3aa38{Y:18=N:0;Y:19=N:94;}0x6fc4bb28{Y:18=N:0;Y:19=N:96;}H0x84cb3ae8{T:0x7b189bc8;}0x71fedab8{T:0x76e3aa38;T:0x6fc4bb28;}
+[Dict]
+1:"models/props_phx/mechanics/medgear.mdl"
+2:"LocalAngle"
+3:"Angles"
+4:"LocalPos"
+5:"Frozen"
+6:"Angle"
+7:"arglist"
+8:"Skin"
+9:"PhysicsObjects"
+10:"prop_physics"
+11:"Class"
+12:"Model"
+13:"CollisionGroupMod"
+14:"EntityMods"
+15:"models/mechanics/gears/gear24x6_large.mdl"
+16:"Weld"
+17:"Type"
+18:"Bone"
+19:"Index"
+20:"Entity"
+21:"forcelimit"
+Saved:25
